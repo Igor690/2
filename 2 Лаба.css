@@ -1,0 +1,349 @@
+body{
+    font-family: Arial, SansSerif;
+    padding: 0;
+    margin: 0 auto;
+    zoom: 70%;
+}
+.BC {
+    height: 4500px;
+    width: 3500px;
+    padding: 0;
+    margin: 0 auto;
+}
+.container-1{
+    width: 2500px;
+    display: flex;
+
+}
+.box-1{
+    width: 180px;
+    margin-left: 150px;
+    margin-top: 15px;
+
+}
+
+.logo{
+    height: 60px;
+    width: 60px;
+    float: left;
+    margin-left: 180px;
+    margin-top: 10px;
+}
+.box-2 {
+    height: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    color: gainsboro;
+}
+.Text {
+    height: 20px;
+    float: right;
+    margin-top: 38px;
+}
+.box-3{
+    margin-left: 400px;
+}
+.nav1{
+    float: right;
+}
+.menu{
+    padding: 0;
+    margin: 0;
+    display: block;
+}
+.container-2{
+    background-image: url("img/YOUR IMAGE HERE1.png");
+    display: flex;
+    margin-top: 25px;
+}
+.box-c1{
+    background-image: url("img/YOUR IMAGE HERE1.png");
+    margin-top: 80px ;
+    width: 410px;
+    font-size: 20px;
+    color: white;
+    float: right;
+}
+.box-c3{
+    background-image: url("img/YOUR IMAGE HERE1.png");
+    float: right;
+    margin-top: 350px;
+    margin-right: 350px;
+}
+.button{
+    background-image: url("img/YOUR IMAGE HERE1.png");
+    background: white;
+    color: gray;
+    height: 50px;
+    padding: 20px 40px;
+    font-size: 20px;
+float: left;
+    margin-top: 30px ;
+    margin-right: 10px ;
+
+}
+.button1 {
+    background-image: url("img/YOUR IMAGE HERE1.png");
+    background: black;
+    color: white;
+    font-size: 20px;
+    margin-left: 10px;
+    padding: 20px 40px;
+    height: 50px;
+    float: right;
+    margin-top: 30px ;
+}
+.container-3{
+    display: flex;
+
+}
+.icon{
+    width: 50px;
+
+}
+
+.icon1{
+    background-image: url("img/icon.png");
+    float: left;
+    margin-left: 200px;
+    margin-right: 400px;
+    margin-top: 100px;
+    height: 200px;
+    width: 370px;
+    font-size: 17px;
+}
+.icon2{
+    background-image: url("img/icon1.png");
+    float: left;
+    margin-left: 200px;
+    margin-right: 400px;
+    margin-top: 100px;
+    height: 200px;
+    width: 370px;
+    font-size: 17px;
+}
+
+.icon3{
+    background-image: url("img/icon2.png");
+    float: left;
+    margin-left: 200px;
+    margin-right: 400px;
+    margin-top: 100px;
+    height: 200px;
+    width: 370px;
+    font-size: 17px;
+}
+
+.container-4{
+    background-image: url("img/bg top1.png");
+    display: flex;
+    position: absolute;
+
+    margin-top: 150px;
+    height: 700px;
+    width: 3000px;
+}
+.container-4-1{
+    position: absolute;
+    width: 1100px;
+    font-size: 15px;
+    margin-left: 950px;
+    margin-top: 180px;
+}
+.container-4-2{
+    position: absolute;
+    font-size: 11px;
+    margin-left: 950px;
+    margin-top: 300px;
+    float: left;
+    width: 300px;
+}
+.container-4-3{
+    position: absolute;
+    font-size: 11px;
+    margin-left: 950px;
+    margin-top: 500px;
+    float: left;
+    width: 300px;
+}
+.container-4-4{
+    position: absolute;
+    font-size: 11px;
+    margin-left: 1550px;
+    margin-top: 300px;
+    float: right;
+    width: 300px;
+}
+.container-4-5{
+    position: absolute;
+    font-size: 11px;
+    margin-left: 1550px;
+    margin-top: 500px;
+    float: right;
+    width: 300px;
+}
+.container-4-6{
+    position: absolute;
+    font-size: 18px;
+    margin-left: 960px;
+    margin-top: 100px;
+    float: right;
+    width: 600px;
+    color: white;
+}
+.bg1{
+    display: flex;
+    position: absolute;
+    width: 3000px;
+    height: 700px;
+}
+.bb{
+    margin-left: 1210px;
+    margin-top: 170px;
+    display: flex;
+    position: absolute;
+    width: 70px;
+    height: 5px;
+}
+.re4{
+    position: absolute;
+    margin-left: 800px;
+    margin-top: 400px;
+    height: 200px;
+    width: 750px;
+}
+
+.bg{
+    display: flex;
+    margin-top: 300px;
+}
+.container-5{
+    display: flex;
+    background-image: url("img/footer bg.png");
+    margin-top: 850px;
+    height: 750px;
+}
+.one{
+    margin-left: 200px;
+float:left;
+}
+.one-1{
+    float:left;
+color: white;
+}
+.one-2{
+    position: absolute;
+    float:left;
+    margin-top: 60px;
+    color:gray;
+}
+.one-3{
+    position: absolute;
+    float:left;
+    margin-top: 350px;
+
+}
+.SHA{
+    margin-left: 60px;
+}
+.icons{
+    float: left;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.two{
+
+    display: flex;
+    margin-left: 500px;
+}
+.two-1{
+    color: #fff;
+}
+.two-2{
+    margin-top: 70px;
+    position: absolute;
+    color: gray;
+}
+.снимок{
+    height: 160px;
+    width: 290px;
+}
+.add{
+    float: right;
+    margin-right: 60px;
+}
+.three{
+    margin-left: 350px;
+    display: flex;
+}
+.three-1{
+    display: flex;
+    color: #fff;
+}
+.three-2{
+    margin-top: 60px;
+    position: absolute;
+    color: gray;
+}
+.four{
+    margin-left: 350px;
+    color:white;
+}
+.four-1{
+    background-image: url("img/name.png");
+    height: 60px;
+    width: 290px;
+    font-size: 18px;
+    float: left;
+    color: gray;
+
+
+
+}
+.four-2{
+    background-image: url("img/email.png");
+    float: right;
+    width: 290px;
+    font-size: 18px;
+    margin-left: 310px;
+    position: absolute;
+    height: 60px;
+    color: gray;
+
+
+}
+.four-3{
+    background-image: url("img/message.png");
+    width: 600px;
+    font-size: 18px;
+    margin-top: 100px;
+    color: gray;
+
+}
+.four-4{
+    background-image: url("img/submit.png");
+    width: 600px;
+    font-size: 18px;
+    margin-top: 10px;
+    height: 70px;
+    position: absolute;
+    color: gray;
+}
+.menu{
+    padding: 0;
+    margin-left: 650px;
+    display: block;
+    height: 30px;
+}
+.menu li{
+    float: left;
+    display: block;
+    padding-right: 36px;
+    margin-top: 28px;
+}
+.menu li a {
+    color: gray;
+    text-decoration: none;
+    font-size: 18px;
+}
+
